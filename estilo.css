@@ -1,0 +1,37 @@
+body{
+    width: 920px;
+    height: 590px;
+    background-image: linear-gradient(blue,gray);
+}
+
+.barra{
+    width: 10px;
+    display:flex;
+}
+
+.logo{
+    width: 210px;
+    height: 10px;
+}
+
+#menu{
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.menu{
+
+}
+
+a{
+    color: white;
+}
+
+main{
+    height: 400px;
+}
+
+footer{ 
+      color: blue;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+}
